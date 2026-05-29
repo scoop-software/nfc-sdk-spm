@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScoopNfc",
-            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/PLACEHOLDER/ScoopNfc.xcframework.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/v1.16.3/ScoopNfc.xcframework.zip",
+            checksum: "8118b98421d60311ad2ced633a8f1f45d6af38043fabccdb01c9c5a5b25b93a1"
         )
     ]
 )
