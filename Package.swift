@@ -11,13 +11,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScoopNfc",
-            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/v1.18.0/ScoopNfc.xcframework.zip",
-            checksum: "8b25b6ebda24519f9f31a3cfc4195f431676f74323d6dee59c7a7f72abd9ccaa"
+            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/v1.19.0/ScoopNfc.xcframework.zip",
+            checksum: "b80428540133f19add05d2b84afa826b905bfe4312ec91ed8286e5a63d858094"
         ),
         .binaryTarget(
             name: "ScoopNfcUI",
-            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/v1.18.0/ScoopNfcUI.xcframework.zip",
-            checksum: "6843a8da3b59d30c26871399201bd389c3efeea74861aea0051b2e0a59d4962a"
+            url: "https://github.com/scoop-software/nfc-sdk-spm/releases/download/v1.19.0/ScoopNfcUI.xcframework.zip",
+            checksum: "f2069e224e6b35f6a6aedcef6f14ac91886ba577636adfb6454e79a8831e08cc"
         ),
     ]
 )
